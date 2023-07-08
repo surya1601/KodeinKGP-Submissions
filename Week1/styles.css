@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+div{
+    margin-top: 10%;
+}
+
+button{
+    padding: 0.5%;
+}
+
+.after{
+    color: white;
+    background-color: blue;
+    border-color: white;
+}
